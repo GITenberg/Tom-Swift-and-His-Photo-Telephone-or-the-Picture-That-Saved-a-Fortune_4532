@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/4532">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12112</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:03:19.647933</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2f5e707f198b47b48f4e6ef66bb0d2f4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Tom Swift and His Photo Telephone or the Picture That Saved a Fortune</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424583</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:26:30.776674</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3ccb79d802584a778e78fe542a351971">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N6baac4f148394a02a72cea9f6d05e783">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PS</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ndd1fe5f266ca4b6099d0e6788ce2cfb5">
+        <rdf:value>Video telephone -- Juvenile fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.txt.utf-8">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250805</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:26:28.410738</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nde2e78f3fa624f5bbc2305603d629138">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nea15a6ad8c744fce96c0a8794bc2410d">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Adventure and adventurers -- Juvenile fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N9d87a80323ad472f8338e30851fa4fc1">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4532/4532.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-22T16:44:38</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbb301258542f47c98e533fc32ab062fa">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250833</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4532/4532.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0913982d739a4fefa0656ee1fe646726">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N77b921153a7c4b3189cfad1706311a31">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91157</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-22T16:44:58</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N897c908bab8b47649e9e5d7fab848622">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PZ</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</pgterms:downloads>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="Nc26939bd2a5447e587e1fadc31350bc1">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Children's Book Series</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99015</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:26:28.831716</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N36527250abf6421fb8e0709ec41d7408">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2c5501958b6245499cd3b3398c29d677">
+        <rdf:value>Swift, Tom (Fictitious character) -- Juvenile fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4532/4532-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0d767b92569f4b78b706c363eed432a5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-22T16:44:58</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92083</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc3c84bac19bf434ab2b0f24ab2ae501d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/267">
+        <pgterms:name>Appleton, Victor</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Victor_Appleton"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-10-01</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424600</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:26:29.799690</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6eb0d05012fe413b9a168b7927e9cd32">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4532.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99016</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N273a5e59f26f46078bd7f28eabf59ff8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:26:28.715720</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nbe5f205b40bf4c3c8eae4792e2e3a74d">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4532/4532-h/4532-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N89b5b0f6ebad4bbf990d976bc53d61eb">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259967</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/4532"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-22T16:44:40</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Victor_Appleton">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
